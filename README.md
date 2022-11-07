@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **React.js**
 
 - 📫 How to reach me **sohamchaudhuri.12.a.38@gmail.com**
-- [![@sohamchaudhuri's Holopin board](https://holopin.me/sohamchaudhuri)](https://holopin.io/@sohamchaudhuri)
+[![@sohamchaudhuri's Holopin board](https://holopin.me/sohamchaudhuri)](https://holopin.io/@sohamchaudhuri)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
