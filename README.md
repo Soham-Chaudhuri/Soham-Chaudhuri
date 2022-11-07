@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Soham Chaudhuri</h1>
 <h3 align="center">A passionate competitive programming , AI-ML  enthusiast and frontend developer from India</h3>
 
-[![trophy](https://github-profile-trophy.vercel.app/?soham-chaudhuri=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=soham-chaudhuri&label=Profile%20views&color=0e75b6&style=flat" alt="soham-chaudhuri" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=soham-chaudhuri" alt="soham-chaudhuri" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=soham-chaudhuri&theme=onedark" alt="soham-chaudhuri" /></a> </p>
 
 - 🔭 I’m currently working on [netflix-clone](https://github.com/Soham-Chaudhuri/Netflix-Clone)
 
