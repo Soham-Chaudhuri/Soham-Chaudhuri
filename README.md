@@ -4,7 +4,7 @@
 
 
 
-- 🔭 I’m currently working on [netflix-clone](https://github.com/Soham-Chaudhuri/Netflix-Clone)
+
 
 - 🌱 I’m currently learning **React.js**
 
