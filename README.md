@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Soham Chaudhuri</h1>
-<h3 align="center">A passionate competitive programming , AI-ML  enthusiast and MERN developer from India</h3>
+<h3 align="center">A passionate AI-ML  enthusiast and MERN developer from India</h3>
 
 
 
