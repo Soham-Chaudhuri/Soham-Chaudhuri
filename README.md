@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Soham Chaudhuri</h1>
-<h3 align="center">A passionate competitive programming , AI-ML  enthusiast and frontend developer from India</h3>
+<h3 align="center">A passionate competitive programming , AI-ML  enthusiast and MERN developer from India</h3>
 
 
 
 
 
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **Flutter**
 
 - 📫 How to reach me **sohamchaudhuri.12.a.38@gmail.com**
 
