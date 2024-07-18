@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 📫 How to reach me **sohamchaudhuri.12.a.38@gmail.com**
+- 📫 How to reach me **sohamchaudhuri7@gmail.com**
 
 [![@sohamchaudhuri's Holopin board](https://holopin.me/sohamchaudhuri)](https://holopin.io/@sohamchaudhuri)
 
